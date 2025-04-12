@@ -1,6 +1,6 @@
-# HashCram
+# InstaCram
 
-HashCram is a project designed to simplify content creation workflows by leveraging AI-powered tools for generating high-quality content efficiently. It provides a user-friendly interface built with Next.js, enabling fast performance and seamless customization for various content generation needs. Built using **Next.js**, this project demonstrates modern web development practices and leverages the power of AI for [specific functionality].
+InstaCram is a project designed to simplify content creation workflows by leveraging AI-powered tools for generating high-quality content efficiently. It provides a user-friendly interface built with Next.js, enabling fast performance and seamless customization for various content generation needs. Built using **Next.js**, this project demonstrates modern web development practices and leverages the power of AI for [specific functionality].
 
 ## Features
 - **AI-Powered Content Generation**: [The main feature of this project is AI-Powered Content Generation, which allows users to create high-quality content efficiently using advanced AI tools. It provides a seamless and customizable workflow for generating various types of content, making it ideal for content creators, marketers, and developers.].
