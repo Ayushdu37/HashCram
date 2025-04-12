@@ -9,8 +9,8 @@ InstaCram is a project designed to simplify content creation workflows by levera
 ## How to Run
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Ayushdu37/HashCram.git
-   cd HashCram
+   git clone https://github.com/Ayushdu37/InstaCram.git
+   cd InstaCram
    ```
 
 2. Install dependencies:
